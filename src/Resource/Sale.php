@@ -22,6 +22,7 @@ use Imper86\PhpAllegroApi\Resource\Sale\DeliverySettings;
 use Imper86\PhpAllegroApi\Resource\Sale\DisputeAttachments;
 use Imper86\PhpAllegroApi\Resource\Sale\Disputes;
 use Imper86\PhpAllegroApi\Resource\Sale\Images;
+use Imper86\PhpAllegroApi\Resource\Sale\Issues;
 use Imper86\PhpAllegroApi\Resource\Sale\Loyalty;
 use Imper86\PhpAllegroApi\Resource\Sale\MatchingCategories;
 use Imper86\PhpAllegroApi\Resource\Sale\OfferAdditionalServices;
@@ -73,6 +74,7 @@ use Imper86\PhpAllegroApi\Resource\Sale\UserRatings;
  * @method OfferClassifiedsPackages offerClassifiedsPackages()
  * @method ClassifiedsPackages classifiedsPackages()
  * @method Images images()
+ * @method Issues issues()
  * @method OfferAttachments offerAttachments()
  * @method OfferModificationCommands offerModificationCommands()
  * @method OfferPriceChangeCommands offerPriceChangeCommands()
